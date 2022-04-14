@@ -1,0 +1,174 @@
+
+2000_Bella.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bella_body
+  rotate: false
+  xy: 2, 420
+  size: 910, 1626
+  orig: 910, 1626
+  offset: 0, 0
+  index: -1
+Bella_fa_LL_0
+  rotate: true
+  xy: 1362, 458
+  size: 228, 209
+  orig: 228, 209
+  offset: 0, 0
+  index: -1
+Bella_fa_LL_1
+  rotate: true
+  xy: 2, 92
+  size: 326, 426
+  orig: 326, 426
+  offset: 0, 0
+  index: -1
+Bella_fa_LL_2
+  rotate: false
+  xy: 1695, 1660
+  size: 223, 386
+  orig: 223, 386
+  offset: 0, 0
+  index: -1
+Bella_fa_LL_3
+  rotate: false
+  xy: 1362, 688
+  size: 197, 254
+  orig: 197, 254
+  offset: 0, 0
+  index: -1
+Bella_fa_L_0
+  rotate: false
+  xy: 880, 354
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Bella_fa_L_1
+  rotate: true
+  xy: 91, 35
+  size: 55, 102
+  orig: 55, 102
+  offset: 0, 0
+  index: -1
+Bella_fa_L_2
+  rotate: false
+  xy: 1920, 1660
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+Bella_fa_L_3
+  rotate: false
+  xy: 1920, 1807
+  size: 126, 239
+  orig: 126, 239
+  offset: 0, 0
+  index: -1
+Bella_fa_L_guding
+  rotate: false
+  xy: 1879, 1498
+  size: 65, 160
+  orig: 65, 160
+  offset: 0, 0
+  index: -1
+Bella_fa_R_1
+  rotate: false
+  xy: 1695, 1356
+  size: 182, 302
+  orig: 182, 302
+  offset: 0, 0
+  index: -1
+Bella_fa_R_2
+  rotate: false
+  xy: 914, 474
+  size: 446, 772
+  orig: 446, 772
+  offset: 0, 0
+  index: -1
+Bella_fa_top_0
+  rotate: true
+  xy: 914, 426
+  size: 46, 120
+  orig: 46, 120
+  offset: 0, 0
+  index: -1
+Bella_fa_top_1
+  rotate: false
+  xy: 703, 95
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+Bella_fa_top_2
+  rotate: false
+  xy: 814, 253
+  size: 64, 165
+  orig: 64, 165
+  offset: 0, 0
+  index: -1
+Bella_fa_top_3
+  rotate: true
+  xy: 1695, 1274
+  size: 80, 181
+  orig: 80, 181
+  offset: 0, 0
+  index: -1
+Bella_lian
+  rotate: true
+  xy: 430, 62
+  size: 177, 271
+  orig: 177, 271
+  offset: 0, 0
+  index: -1
+Bella_shoubi_1
+  rotate: true
+  xy: 430, 241
+  size: 177, 382
+  orig: 177, 382
+  offset: 0, 0
+  index: -1
+Bella_shoubi_2
+  rotate: false
+  xy: 1362, 944
+  size: 306, 302
+  orig: 306, 302
+  offset: 0, 0
+  index: -1
+Bella_toufa
+  rotate: false
+  xy: 914, 1248
+  size: 779, 798
+  orig: 779, 798
+  offset: 0, 0
+  index: -1
+Bella_touhua
+  rotate: false
+  xy: 1561, 868
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+Bella_touhua_L_0
+  rotate: true
+  xy: 1879, 1395
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+Bella_touhua_R_0
+  rotate: false
+  xy: 2, 2
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Bella_zui
+  rotate: false
+  xy: 1946, 1630
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1

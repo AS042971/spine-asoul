@@ -1,0 +1,209 @@
+
+2000_Car.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Car_hand_R
+  rotate: true
+  xy: 860, 1744
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+Car_lingdai_01
+  rotate: false
+  xy: 773, 1507
+  size: 43, 142
+  orig: 43, 142
+  offset: 0, 0
+  index: -1
+Car_lingdai_02
+  rotate: false
+  xy: 718, 1154
+  size: 47, 151
+  orig: 47, 151
+  offset: 0, 0
+  index: -1
+car_body
+  rotate: false
+  xy: 2, 315
+  size: 457, 1730
+  orig: 457, 1730
+  offset: 0, 0
+  index: -1
+car_erding
+  rotate: false
+  xy: 773, 1456
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+car_head001
+  rotate: true
+  xy: 2, 26
+  size: 287, 314
+  orig: 287, 314
+  offset: 0, 0
+  index: -1
+car_l_xiaobi
+  rotate: false
+  xy: 461, 1001
+  size: 255, 304
+  orig: 255, 304
+  offset: 0, 0
+  index: -1
+car_lingdai1
+  rotate: true
+  xy: 318, 102
+  size: 211, 111
+  orig: 211, 111
+  offset: 0, 0
+  index: -1
+car_liuhai_01
+  rotate: false
+  xy: 596, 850
+  size: 100, 149
+  orig: 100, 149
+  offset: 0, 0
+  index: -1
+car_liuhai_02
+  rotate: true
+  xy: 1299, 1987
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+car_liuhai_03
+  rotate: false
+  xy: 461, 644
+  size: 82, 183
+  orig: 82, 183
+  offset: 0, 0
+  index: -1
+car_liuhai_04
+  rotate: false
+  xy: 318, 26
+  size: 87, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1
+car_liuhai_05
+  rotate: false
+  xy: 773, 1651
+  size: 85, 212
+  orig: 85, 212
+  offset: 0, 0
+  index: -1
+car_liuhai_06
+  rotate: true
+  xy: 1177, 1988
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+car_liuhai_07
+  rotate: false
+  xy: 860, 1663
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+car_liuhai_08
+  rotate: true
+  xy: 960, 1978
+  size: 67, 215
+  orig: 67, 215
+  offset: 0, 0
+  index: -1
+car_liuhai_09
+  rotate: true
+  xy: 1074, 1891
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+car_liuhai_10
+  rotate: false
+  xy: 773, 1865
+  size: 185, 180
+  orig: 185, 180
+  offset: 0, 0
+  index: -1
+car_liuhai_12
+  rotate: false
+  xy: 461, 513
+  size: 42, 129
+  orig: 42, 129
+  offset: 0, 0
+  index: -1
+car_liuhaibig
+  rotate: false
+  xy: 461, 829
+  size: 133, 170
+  orig: 133, 170
+  offset: 0, 0
+  index: -1
+car_liuhaihiou
+  rotate: true
+  xy: 960, 1884
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+car_r_gebo
+  rotate: false
+  xy: 461, 1307
+  size: 310, 738
+  orig: 310, 738
+  offset: 0, 0
+  index: -1
+car_shouzhi0
+  rotate: true
+  xy: 718, 1081
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+car_shouzhi1
+  rotate: false
+  xy: 431, 257
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
+car_shouzhi2
+  rotate: true
+  xy: 2, 2
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+car_shouzhi3
+  rotate: false
+  xy: 818, 1614
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+car_yan1
+  rotate: true
+  xy: 545, 754
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+car_yan2
+  rotate: false
+  xy: 461, 470
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+car_zui
+  rotate: false
+  xy: 505, 618
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

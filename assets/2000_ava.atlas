@@ -1,0 +1,265 @@
+
+2000_ava.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ava_BIyan
+  rotate: true
+  xy: 768, 917
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Ava_LBIGfa_2
+  rotate: true
+  xy: 803, 1242
+  size: 365, 1034
+  orig: 365, 1034
+  offset: 0, 0
+  index: -1
+Ava_L_meimao
+  rotate: false
+  xy: 590, 122
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+Ava_L_piaodai1
+  rotate: true
+  xy: 1033, 551
+  size: 123, 156
+  orig: 123, 156
+  offset: 0, 0
+  index: -1
+Ava_L_piaodai2
+  rotate: true
+  xy: 1892, 1456
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+Ava_Lfa0
+  rotate: false
+  xy: 1211, 753
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+Ava_Lhua
+  rotate: true
+  xy: 1294, 903
+  size: 39, 171
+  orig: 39, 171
+  offset: 0, 0
+  index: -1
+Ava_Lxiaobi
+  rotate: false
+  xy: 768, 380
+  size: 228, 158
+  orig: 228, 158
+  offset: 0, 0
+  index: -1
+Ava_RBIGfa_1
+  rotate: false
+  xy: 2, 983
+  size: 799, 1063
+  orig: 799, 1063
+  offset: 0, 0
+  index: -1
+Ava_R_dabi
+  rotate: true
+  xy: 1909, 1743
+  size: 303, 137
+  orig: 303, 137
+  offset: 0, 0
+  index: -1
+Ava_R_piaodai1
+  rotate: false
+  xy: 1839, 1405
+  size: 51, 202
+  orig: 51, 202
+  offset: 0, 0
+  index: -1
+Ava_R_piaodai2
+  rotate: true
+  xy: 768, 286
+  size: 92, 219
+  orig: 92, 219
+  offset: 0, 0
+  index: -1
+Ava_R_xiaobi
+  rotate: false
+  xy: 1294, 944
+  size: 415, 296
+  orig: 415, 296
+  offset: 0, 0
+  index: -1
+Ava_Rfa0
+  rotate: false
+  xy: 768, 232
+  size: 117, 52
+  orig: 117, 52
+  offset: 0, 0
+  index: -1
+Ava_Rmei
+  rotate: true
+  xy: 998, 478
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Ava_Xhua
+  rotate: false
+  xy: 1191, 570
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+Ava_body
+  rotate: false
+  xy: 2, 228
+  size: 764, 753
+  orig: 764, 753
+  offset: 0, 0
+  index: -1
+Ava_chuan_1
+  rotate: false
+  xy: 1839, 1298
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+Ava_chuan_2
+  rotate: false
+  xy: 1839, 1225
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+Ava_chuan_3
+  rotate: false
+  xy: 1211, 674
+  size: 112, 77
+  orig: 112, 77
+  offset: 0, 0
+  index: -1
+Ava_fa_top1
+  rotate: true
+  xy: 407, 121
+  size: 105, 181
+  orig: 105, 181
+  offset: 0, 0
+  index: -1
+Ava_fa_top2
+  rotate: true
+  xy: 590, 135
+  size: 91, 167
+  orig: 91, 167
+  offset: 0, 0
+  index: -1
+Ava_hand
+  rotate: false
+  xy: 1909, 1601
+  size: 105, 140
+  orig: 105, 140
+  offset: 0, 0
+  index: -1
+Ava_hand_1
+  rotate: true
+  xy: 1952, 1408
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Ava_hand_2
+  rotate: true
+  xy: 355, 17
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Ava_hand_3
+  rotate: false
+  xy: 2, 18
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Ava_head
+  rotate: false
+  xy: 768, 540
+  size: 263, 326
+  orig: 263, 326
+  offset: 0, 0
+  index: -1
+Ava_hua
+  rotate: false
+  xy: 887, 212
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+Ava_l_hua
+  rotate: true
+  xy: 219, 80
+  size: 146, 186
+  orig: 146, 186
+  offset: 0, 0
+  index: -1
+Ava_r_fa_
+  rotate: true
+  xy: 219, 2
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+Ava_shanzi
+  rotate: false
+  xy: 1033, 676
+  size: 176, 190
+  orig: 176, 190
+  offset: 0, 0
+  index: -1
+Ava_sui1
+  rotate: true
+  xy: 1711, 991
+  size: 249, 81
+  orig: 249, 81
+  offset: 0, 0
+  index: -1
+Ava_sui2
+  rotate: false
+  xy: 2, 47
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+Ava_tui1
+  rotate: true
+  xy: 803, 1609
+  size: 437, 1104
+  orig: 437, 1104
+  offset: 0, 0
+  index: -1
+Ava_tui2
+  rotate: false
+  xy: 803, 868
+  size: 489, 372
+  orig: 489, 372
+  offset: 0, 0
+  index: -1
+Ava_zhangyan
+  rotate: false
+  xy: 1892, 1406
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+Ava_zui
+  rotate: false
+  xy: 1711, 953
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
