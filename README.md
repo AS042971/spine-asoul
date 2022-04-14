@@ -2,7 +2,7 @@
 
 本项目包含来自 http://hackathon2022.juejin.cn/ 的A-Soul动态2D模型
 
-同时增加了基于 [SpineJS](https://spine.github.io/) 的最小测试页面
+同时增加了基于 [SpineJS](https://github.com/EsotericSoftware/spine-runtimes/tree/4.0/spine-ts) 的最小测试页面
 
 在 [这里](https://as042971.github.io/spine-asoul/) 可以看到实际运行效果
 
